@@ -38,7 +38,7 @@
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion)
 
 ---
-
+<!--
 ## 📂 Featured Projects
 
 ### 💰 Personal Finance Management System
@@ -46,21 +46,22 @@
 A web application designed to help users manage their personal finances efficiently and securely.
 
 ---
-
+-->
 ## 📊 GitHub Statistics
-
+<!--
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andre00pc&theme=tokyonight" />
 </p>
-
+-->
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andre00pc&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andre00pc&theme=tokyonight" />
+  <!--<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andre00pc&theme=tokyonight" />-->
 </p>
-
+<!--
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andre00pc&theme=tokyo-night&hide_border=true" />
 </p>
+-->
 
 ---
 
