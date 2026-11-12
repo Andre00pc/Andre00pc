@@ -1,24 +1,24 @@
-# Hi there! 👋 I'm André Pereira Camilo
+# Hi there! I'm André Pereira Camilo
 
-🎓 Computer Engineering student at the Federal University of Ouro Preto (UFOP)
+ Computer Engineering student at the Federal University of Ouro Preto (UFOP)
 
-🔧 Technical Degree in Electromechanics (SENAI)
+ Technical Degree in Electromechanics (SENAI)
 
-💻 Passionate about building software, solving engineering problems, and continuously improving my technical skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering Student at UFOP
-- ⚙️ Technical Degree in Electromechanics
-- 💡 Interested in software development and technology
-- 🌱 Currently improving my programming skills through academic and personal projects
-- 🤝 Always open to learning and collaborating
+ Passionate about building software, solving engineering problems, and continuously improving my technical skills.
 
 ---
 
-## 🛠️ Tech Stack
+##  About Me
+
+-  Computer Engineering Student at UFOP
+-  Technical Degree in Electromechanics
+-  Interested in software development and technology
+-  Currently improving my programming skills through academic and personal projects
+-  Always open to learning and collaborating
+
+---
+
+## Tech Stack
 
 ### Programming Language
 
