@@ -1,10 +1,4 @@
-<div align="center">
-  <img width="768" height="1376" alt="Gemini_Generated_Image_843yrb843yrb843y" src="https://github.com/user-attachments/assets/1091bc85-fd04-4866-b33e-a15b222a5c64" />
-</div>
 
-
-
-<!--
 # Hi there! I'm André Pereira Camilo
 
  Computer Engineering student at the Federal University of Ouro Preto (UFOP)
@@ -51,6 +45,12 @@
 ### 💰 Personal Finance Management System
 
 A web application designed to help users manage their personal finances efficiently and securely.
+
+
+<div align="center">
+  <img width="768" height="1376" alt="Gemini_Generated_Image_843yrb843yrb843y" src="https://github.com/user-attachments/assets/1091bc85-fd04-4866-b33e-a15b222a5c64" />
+</div>
+
 
 ---
 -->
