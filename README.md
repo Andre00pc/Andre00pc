@@ -1,3 +1,9 @@
+
+<img width="1099" height="960" alt="imagem_github" src="https://github.com/user-attachments/assets/dce0b123-d781-4e81-85a7-d6a4f1d6339b" />
+
+
+
+<!--
 # Hi there! I'm André Pereira Camilo
 
  Computer Engineering student at the Federal University of Ouro Preto (UFOP)
